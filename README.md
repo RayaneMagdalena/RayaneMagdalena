@@ -1,5 +1,6 @@
 
-## Olá! Eu sou a Rayane Magdalena, estudante de programação e tecnologia :)"
+## Olá! Eu sou a Rayane Magdalena, estudante de programação e tecnologia :)
+
 - 🌱  Atualmente estou estudando Front-end
 <div>
 <a href = "https://www.linkedin.com/in/rayane-magdalena-473b83163/">
