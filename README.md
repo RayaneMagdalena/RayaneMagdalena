@@ -2,6 +2,7 @@
 ## Olá! Eu sou a Rayane Magdalena, estudante de programação e tecnologia 🖐️
 
 - 🌱  Atualmente estou estudando Front-end
+- 📚  Acompanhe meus Projetos/Estudos [online](rayanemagdalena.github.io/devlinks/)
 <div>
 <a href = "https://www.linkedin.com/in/rayane-magdalena-473b83163/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanemagdalena&show_icons=true&theme=radical&locale=en&layout=compact" alt="RayaneMagdalena"/>
