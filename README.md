@@ -1,5 +1,11 @@
 
-## Olá! Eu sou a Rayane Magdalena, estudante de programação e tecnologia 🖐️
+<div align="center"> 
+
+# Olá! Eu sou a Rayane Magdalena 👋
+
+## Sou estudande de programação e tecnologia :computer:
+
+</div>
 
 - 🌱  Atualmente estou estudando Front-end
 - 📚  Acompanhe meus Projetos/Estudos [online](https://rayanemagdalena.github.io/devlinks/)
