@@ -1,30 +1,42 @@
 
 <div align="center"> 
 
-# Olá! Eu sou a Rayane Magdalena 👋
+# Olá! Eu sou a Rayane 👋
 
-## Sou estudande de programação e tecnologia :computer:
-
+## Sou estudande de programação e tecnologia.
 </div>
 
-- 🌱  Atualmente estou estudando Front-end
-- 📚  Acompanhe meus Projetos/Estudos [online](https://rayanemagdalena.github.io/devlinks/)
+<br>
 <div>
 <a href = "https://www.linkedin.com/in/rayane-magdalena-473b83163/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayanemagdalena&show_icons=true&theme=radical&locale=en&layout=compact" alt="RayaneMagdalena"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   </div>
 
- ##
- <div>
-  <a href="https://instagram.com/rayanemagdalena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	  <a href = "mailto:rayanemagdalena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">    </a>
-  <a href="https://www.linkedin.com/in/rayane-magdalena-473b83163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+<br>
+<br>
+        
+- 🌱  Atualmente estou estudando Front-end
+- 📚  Acompanhe meus Projetos/Estudos [online](https://rayanemagdalena.github.io/devlinks/)
+- :rocket: &nbsp; Buscando novos desafios
+- 😄 &nbsp; Sobre mim: Gosto de ver séries, me arriscar com ilustrações, assistir séries, barzinho com amigos e momentos com a família.
+
+<div align="center">
+
+### Tecnologias:
+  <img align="center" alt="Ray-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Ray-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Ray-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ </div>
+ 
+ <br>
+
+<div align="center">
+  
+### Entre em contato comigo:
+<a href="https://www.linkedin.com/in/rayane-magdalena-473b83163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:rayanemagdalena@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
 
+  
