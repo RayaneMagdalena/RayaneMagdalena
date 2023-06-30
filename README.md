@@ -18,7 +18,7 @@
 - 🌱  Atualmente estou estudando Front-end
 - 📚  Acompanhe meus Projetos [aqui!](https://rayanemagdalena.github.io/portfolio/)
 - :rocket: &nbsp; Buscando novos desafios!
-- 😄 &nbsp; Sobre mim: Gosto de ver séries, me arriscar com ilustrações, assistir séries, barzinho com amigos e momentos com a família.
+- 😄 &nbsp; Sobre mim: Gosto de ver séries, me arriscar com ilustrações, barzinho com amigos e momentos com a família.
 
 <div align="center">
 
