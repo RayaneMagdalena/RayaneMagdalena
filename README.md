@@ -16,8 +16,8 @@
 <br>
         
 - 🌱  Atualmente estou estudando Front-end
-- 📚  Acompanhe meus Projetos/Estudos [online](https://rayanemagdalena.github.io/devlinks/)
-- :rocket: &nbsp; Buscando novos desafios
+- 📚  Acompanhe meus Projetos [aqui!](https://rayanemagdalena.github.io/portfolio/)
+- :rocket: &nbsp; Buscando novos desafios!
 - 😄 &nbsp; Sobre mim: Gosto de ver séries, me arriscar com ilustrações, assistir séries, barzinho com amigos e momentos com a família.
 
 <div align="center">
@@ -26,6 +26,8 @@
   <img align="center" alt="Ray-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Ray-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ray-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt="Ray-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ 
  </div>
  
  <br>
